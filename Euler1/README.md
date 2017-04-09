@@ -1,0 +1,1 @@
+Problem 1 solved from (Project Euler)[http://projecteuler.net/problem=1]
